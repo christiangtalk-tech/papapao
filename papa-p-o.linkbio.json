@@ -1,0 +1,246 @@
+{
+  "id": "project-a72df603-e3b8-4657-b2d7-ef253d3037ec",
+  "schemaVersion": 1,
+  "name": "Papa Pão",
+  "segment": "blank",
+  "createdAt": "2026-10-14T16:52:09.323Z",
+  "updatedAt": "2026-10-14T17:34:04.992Z",
+  "business": {
+    "name": "Confeitaria e Panificadora Papa Pão",
+    "description": "",
+    "logo": "data:image/jpeg;base64,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",
+    "cover": "",
+    "phone": "",
+    "whatsapp": "",
+    "instagram": "",
+    "address": "",
+    "mapUrl": "",
+    "hours": "",
+    "seoTitle": "",
+    "seoDescription": "",
+    "footerNote": ""
+  },
+  "theme": {
+    "primary": "#F5664B",
+    "secondary": "#263142",
+    "background": "#FFF8ED",
+    "surface": "#FFFFFF",
+    "text": "#17202A",
+    "muted": "#64707B",
+    "font": "classic",
+    "radius": 18,
+    "spacing": 28,
+    "buttonStyle": "soft",
+    "featureIcon": "check",
+    "iconStyle": "circle",
+    "animation": "zoom",
+    "motionSpeed": "slow"
+  },
+  "blocks": [
+    {
+      "id": "block-4fb46496-e3b1-4f84-80dd-251e1d08e78c",
+      "type": "hero",
+      "label": "Apresentação",
+      "visible": true,
+      "data": {
+        "eyebrow": "Tradição e sabor em cada momento ✨",
+        "title": "Papa Pão. O sabor que faz parte da sua história!",
+        "text": "Pães fresquinhos, bolos deliciosos, doces e salgados para deixar seu dia mais gostoso! ☕🥖 Venha tomar um café com a gente ou encomende bolos personalizados, salgadinhos e docinhos para tornar sua festa ainda mais especial. Qualidade e tradição que conquistam a região!",
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5b-SUx-dUceSLbmQeg48RNToOJlrMiy_vukN7vMFiEuTWHUNHgI0pCmnhajmqE-pqeS_st_Xntj4mfYJLZtR1CD0IFlVl6r85A4UVhWfLb2GQNG26bKIuZN3Wh4zThM_UF5TyDOCJIXP6=s680-w680-h510-rw",
+        "ctaLabel": "🥐 Conheça nossas delícias",
+        "ctaUrl": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20conhecer%20as%20del%C3%ADcias%20e%20op%C3%A7%C3%B5es%20de%20encomendas%20de%20voc%C3%AAs.%20%F0%9F%A5%90%F0%9F%8E%82",
+        "alignment": "center"
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-d7804623-33bb-4aa7-96b8-32e651ca9547",
+      "type": "carousel",
+      "label": "Carrossel",
+      "visible": true,
+      "data": {
+        "title": "Destaques",
+        "slides": [
+          {
+            "id": "slide-462b20b9-663d-4a02-a903-b43a952a77b0",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVUAr0Ui0pycaWRLDkZpD44YYuMwSD5GAn6kB1LdDcy72D5D2Xerr3STtl9S36LnEgzXJsKlg1bVBAGpvmNrIfG8oV2kR6SNSzr4beOlbaeSltILulIgpWivCiA4HRDvgT8PmS=s680-w680-h510-rw",
+            "alt": "",
+            "caption": ""
+          },
+          {
+            "id": "item-58aa9b1d-4ace-47a5-b59e-dbd0272c04e5",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SW-7WdAQFHjtkyyqawjdCD8VxoVfxML1dUfTCWWn8U40znMc0TDMCjYGq3JjJPIkDFmMYtoNA9WszH_7VtsN1DA5z1n2llAN4xqT8i0oN1cUFvSJteV8PVGnC1dRMARp3XotGERQ=s680-w680-h510-rw",
+            "alt": "",
+            "caption": ""
+          },
+          {
+            "id": "item-2a810179-5de0-403a-9ecc-4dc80411b81c",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaMFnPjycZRvfYJnru5fZWg92h3w3WtoDT-Q3SQuBSaNYqHl9h0Wg4tNXb8MvdHZ3Loc20Wf4aPLD_6ozmHyNYkpcvn-E3zRRuypji0gG28HGA2B1TZ4NkPG8uoaitMuzrBqichw=s680-w680-h510-rw",
+            "alt": "",
+            "caption": ""
+          },
+          {
+            "id": "item-72121729-8c53-4880-9412-fcd34a8f6d2b",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TYpetE7KJ81LGs3Lq8qpg90FZmFdkfdlhFUDd73T1Z5GmK6HndosUoC_sxF3szrU3gD-Z-fjOnBiPXQT4E-eP8h2TivEgr-O_4BINwEByomWZLmXomLqKIsP7eRGFoHxhzG2ASYQ=w141-h176-n-k-no-nu",
+            "alt": "",
+            "caption": ""
+          },
+          {
+            "id": "item-3253323c-485d-4161-91df-16639c23e14f",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TAV1VtbFpURBPbcvwgVjWsiy0G7N6EDFvg6dr_FZa8UW7ISJrbD6IihdM8SqNWQMUkYld6UwjV45h-Pp30DKSQsKBVfPfYInpkOWY7tvcs-Nm6E_FHiOA4pDL_ZFIFfMg1FrIKPg=s680-w680-h510-rw",
+            "alt": "",
+            "caption": ""
+          },
+          {
+            "id": "item-9116d6c6-7d93-49f9-b17e-537dc3501007",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T3RoViXpGtoOuxk5urkmPqER3UJWAZX686IHQP-gPbh7HxXxA_38QzHWquUdxiuNEUYNAF2uV50c3IyubYks4GkpMHmg2kNx-elmPP2qcrcWd2-0gSe3a_3BqXtAIsKxUn4n5SLw=s680-w680-h510-rw",
+            "alt": "",
+            "caption": ""
+          }
+        ]
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-115819b2-efa0-4b63-b46c-cd2792d60276",
+      "type": "about",
+      "label": "Nossa História",
+      "visible": true,
+      "data": {
+        "title": "Um sabor especial na nossa região ❤️",
+        "text": "A Papa Pão é aquele lugar para quem aprecia coisas gostosas e momentos especiais. Seja para começar o dia com um pão fresquinho, fazer uma pausa para um café ou escolher delícias para compartilhar com a família, aqui você encontra opções para diferentes momentos.\n\nE quando chega a hora de comemorar, conte com nossas opções de bolos personalizados, salgadinhos e docinhos para deixar sua festa ainda mais saborosa.\n\nVenha conhecer a Papa Pão e descubra suas próximas delícias favoritas!",
+        "image": "https://scontent.fbfh2-1.fna.fbcdn.net/v/t51.82787-15/658210552_18345846883240478_1676956833985393674_n.jpg?stp=dst-jpegr_tt6&cstp=mx1440x1440&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5IzN4vESYwoQ7kNvwEWJ3Gl&_nc_oc=Ado2d4HRJeAU3SPfDWKqsyAoCn1n7mF60j7VU06bQJT4gjgMIetQPa2ZqYedLHXEtwXtMX1F-hC7vlxv6Vldek6n&_nc_zt=23&se=-1&_nc_ht=scontent.fbfh2-1.fna&_nc_gid=CFP8vS41AfHKU3etxgaD6w&_nc_ss=7b289&oh=00_AQOX66MmHVE8ChAs5q4MP7yUnAL7SlycI00SD_VVhSQDKQ&oe=6AD57625",
+        "layout": "image-left"
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-1d234bb7-3e70-4449-96cc-50dcd1ef55e9",
+      "type": "menu",
+      "label": "Nossas Delícias",
+      "visible": true,
+      "data": {
+        "title": "Tem sempre algo gostoso esperando por você! 🥐",
+        "intro": "",
+        "categories": [
+          {
+            "id": "category-8ed11daa-bf21-4461-86c2-ca6e84e22ecf",
+            "title": "Pães",
+            "items": [
+              {
+                "id": "menu-item-1b369565-723e-43f7-a77c-ed216f9d20e0",
+                "name": "Pães para o seu dia a dia",
+                "description": "Para acompanhar seu café da manhã ou deixar qualquer momento mais gostoso.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NULc2T8eIl-iIVQgliQXqhDSgGcoKMe0HFOZSSG96Q&s=10",
+                "imageAlt": "",
+                "price": "Consulte as opções disponiveis",
+                "tag": "",
+                "available": true,
+                "message": "",
+                "ctaLabel": "Faça Sua encomenda",
+                "ctaUrl": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20conhecer%20as%20del%C3%ADcias%20e%20op%C3%A7%C3%B5es%20de%20encomendas%20de%20voc%C3%AAs.%20%F0%9F%A5%90%F0%9F%8E%82"
+              }
+            ]
+          },
+          {
+            "id": "category-8579e9f0-f5c6-49ce-b85f-ea86542fbda8",
+            "title": "Bolos",
+            "items": [
+              {
+                "id": "menu-item-876cb953-2615-4393-ba71-02db78b38699",
+                "name": "Bolos para adoçar o dia",
+                "description": "Uma opção deliciosa para acompanhar o café ou compartilhar com quem você gosta.",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/71/0e/cf/infinidade-de-tipos-de.jpg",
+                "imageAlt": "",
+                "price": "Consulte as opções disponiveis",
+                "tag": "",
+                "available": true,
+                "message": "",
+                "ctaLabel": "Faça Sua encomenda",
+                "ctaUrl": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20conhecer%20as%20del%C3%ADcias%20e%20op%C3%A7%C3%B5es%20de%20encomendas%20de%20voc%C3%AAs.%20%F0%9F%A5%90%F0%9F%8E%82"
+              }
+            ]
+          },
+          {
+            "id": "category-d640a139-4b9d-424b-b8fa-8c2c8de9ae61",
+            "title": "Doces e Salgados",
+            "items": [
+              {
+                "id": "menu-item-cfbbcacf-059f-4795-b8a7-2f67e316995e",
+                "name": "Pequenas delícias, grandes momentos",
+                "description": "Opções doces e salgadas para matar a vontade de comer algo gostoso.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNm9QJCA99p-ZW3xY5t1vIXBEthIlgBVLPJuClb0awA&s=10",
+                "imageAlt": "",
+                "price": "Consulte as opções disponiveis",
+                "tag": "",
+                "available": true,
+                "message": "",
+                "ctaLabel": "Faça Sua encomenda",
+                "ctaUrl": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20conhecer%20as%20del%C3%ADcias%20e%20op%C3%A7%C3%B5es%20de%20encomendas%20de%20voc%C3%AAs.%20%F0%9F%A5%90%F0%9F%8E%82"
+              }
+            ]
+          },
+          {
+            "id": "category-eb9604be-cfc9-4f0b-bc40-804eaba84583",
+            "title": "Encomendas para Festas",
+            "items": [
+              {
+                "id": "menu-item-44f1bf96-c721-4409-b978-72ec80145fcf",
+                "name": "Bolos personalizados, salgadinhos e docinhos",
+                "description": "Prepare sua comemoração com delícias escolhidas para tornar sua festa ainda mais especial.",
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaMFnPjycZRvfYJnru5fZWg92h3w3WtoDT-Q3SQuBSaNYqHl9h0Wg4tNXb8MvdHZ3Loc20Wf4aPLD_6ozmHyNYkpcvn-E3zRRuypji0gG28HGA2B1TZ4NkPG8uoaitMuzrBqichw=s680-w680-h510-rw",
+                "imageAlt": "",
+                "price": "Consulte sabores, opções e condições para encomendas.",
+                "tag": "",
+                "available": true,
+                "message": "",
+                "ctaLabel": "Faça Sua encomenda",
+                "ctaUrl": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20conhecer%20as%20del%C3%ADcias%20e%20op%C3%A7%C3%B5es%20de%20encomendas%20de%20voc%C3%AAs.%20%F0%9F%A5%90%F0%9F%8E%82"
+              }
+            ]
+          }
+        ]
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-08019b30-eb8e-4d49-b1bb-f5953c66e822",
+      "type": "cta",
+      "label": "Sua Festa Mais Gostosa",
+      "visible": true,
+      "data": {
+        "title": "Vai comemorar? Deixe a parte mais gostosa com a gente! 🎂🎉",
+        "text": "",
+        "label": "Consultar Encomendas pelo WhatsApp",
+        "url": "https://wa.me/5541998095039?text=Ol%C3%A1%2C%20Papa%20P%C3%A3o%21%20Vim%20pelo%20Instagram%20e%20gostaria%20de%20consultar%20as%20op%C3%A7%C3%B5es%20de%20encomendas%20para%20minha%20festa.%20%F0%9F%8E%82",
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiJK0vhYIcEIHIVDaM1U9rYVq0sAsqGYt6_D1JIxfKBM6_4aq_yKMpiYU4dpDodvVTFEyfyMlAwAE-Xn3OlIwrX7wNoy_XeD8Hm1EBPrW8HFYVXvZli-eRxcAXhTIB1oIyudc-tg=w141-h176-n-k-no-nu"
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-6a9555dc-d5ab-45d1-a575-24ee37b832f6",
+      "type": "location",
+      "label": "Venha nos Visitar",
+      "visible": true,
+      "data": {
+        "title": "Seu próximo café gostoso começa aqui! ☕🥐",
+        "address": "Padre Silvestre Kandora, 414 - Cidade Industrial, Curitiba - PR, 81280-240",
+        "hours": "segunda-feira 07:00–20:00\nterça-feira\t 07:00–20:00\nquarta-feira\t07:00–20:00\nquinta-feira\t07:00–20:00\nsexta-feira\t07:00–20:00\nsábado\t        07:00–20:00\ndomingo\t        Fechado\n",
+        "mapUrl": "https://www.google.com/maps?sca_esv=a80c92513419f584&sxsrf=APpeQnte-RvoQjzrYcz92NNDoA6-e59EhQ:1791997278286&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszkLt6nAp8aiRKj5vMjqZApOc6yfvD6e0PKT-w9T4UNd5LfevPPp_-UkKLMmZR1GPOR0i1FQI_w_sa5R0xIFRxKjgM8hZ0hvIe4HcuXWoBiAdPhc6TbIPuYGN_7SryxwuXv3bf5AxjhW3oxOJHcpa-vE2ap0fh-rDD9fhIkxG2T_faAIEBqJZ6c3cDh3WM3jgY3X4BfhTliWqftZn2IY4LFZNA57o&biw=1360&bih=599&dpr=1&um=1&ie=UTF-8&fb=1&gl=br&sa=X&geocode=Kb0kK9334dyUMQYKtB94LQ6m&daddr=R.+Padre+Silvestre+Kandora,+414+-+Cidade+Industrial,+Curitiba+-+PR,+81280-240",
+        "buttonLabel": "Como chegar"
+      },
+      "invalidSourceType": ""
+    },
+    {
+      "id": "block-fde23062-a8f3-4720-8e0d-f4fef454b89b",
+      "type": "footer",
+      "label": "Rodapé",
+      "visible": true,
+      "data": {
+        "note": "Padaria Papa Pão Ltda.\nCNPJ 00.000.000/0001-00",
+        "showBrand": false
+      },
+      "invalidSourceType": ""
+    }
+  ]
+}
